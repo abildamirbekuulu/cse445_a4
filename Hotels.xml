@@ -1,4 +1,4 @@
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/abildamirbekuulu/cse445_a4/blob/main/Hotels.xsd">
     <Hotel Rating="4.2">
         <Name>Renaissance Scottsdale</Name>
         <Phone>480-123-4567</Phone>
